@@ -34,10 +34,6 @@
 * **Resizable Drawing Area**
   The canvas resizes dynamically, giving you full control and space to work in as much detail as you want.
 
----
-
-### ⚙️ Features (Page 2/2)
-
 * **Performance Mode**
   Generates optimized MythicMob code by reducing redundant lines for better in-game performance.
 
@@ -50,14 +46,8 @@
 * **YAML Code Export**
   Instantly convert your effect into MythicMob-compatible YAML format with a single click.
 
-* **Timeline Playback**
-  A built-in timeline allows you to preview and adjust your effect’s behavior across ticks.
-
 * **Multiple Generation Modes**
   Choose between sequential, proximity-based, rotating, or custom modes for flexible animation logic.
-
-* **Exportable Executable**
-  You can compile the tool into a standalone `.exe` and share it; source code remains private.
 
 * **User-Friendly Interface**
   Designed for both beginners and experienced users, with an intuitive layout and easy controls.
