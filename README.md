@@ -8,7 +8,7 @@
 
 
 
-### 🧩 Features (Page 1/2)
+### 🧩 Features 
 
 * **Layer System**
   Organize your effects into separate layers for more complex visual designs. Each layer works independently.
