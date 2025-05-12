@@ -63,4 +63,14 @@ Copying, modifying, redistributing, or reverse engineering is strictly forbidden
 
 Author: `discord/yaslicadi`
 
+![image](https://github.com/user-attachments/assets/f348d73f-6f53-4e5f-bc1f-241d01ee2276)
+
+![image](https://github.com/user-attachments/assets/a80cac11-ec3f-4864-b140-4938f62ac57e)
+
+![image](https://github.com/user-attachments/assets/12787811-750c-4621-b4c3-9011487756e2)
+
+![image](https://github.com/user-attachments/assets/e75ed5cf-4877-4b60-9a0c-4beca3d5af61)
+
+![image](https://github.com/user-attachments/assets/bd43041b-bd32-4bd2-9410-5a0289484de3)
+
 
