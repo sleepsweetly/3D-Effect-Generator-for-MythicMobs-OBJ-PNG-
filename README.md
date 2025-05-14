@@ -1,76 +1,85 @@
 
-
-
-
 ## 🎉 AuraFX v1.0.2
 
-**AuraFX** is a powerful visual tool designed for creating custom MythicMob particle effects — without any coding!
+**AuraFX** is a powerful visual tool designed for creating stunning **MythicMob particle effects** — no coding required!
 
+---
 
+## 🧩 Key Features
 
-### 🧩 Features 
+### 🔹 **Main Menu – Simple & Elegant**
 
-* **Layer System**
-  Organize your effects into separate layers for more complex visual designs. Each layer works independently.
+Easily access all tools with a clean and intuitive main menu.
 
-* **Per-Layer Settings**
-  Customize every detail for each layer separately, including particle name, delay (tick), color, offset, and more.
+![Main Menu](https://github.com/user-attachments/assets/eb9311a7-db5d-4392-bd37-433cf2cdccee)
 
-* **PNG & OBJ Support**
-  Import PNG images or 3D OBJ models and scale them to fit the drawing area for more precise effects.
+---
 
-* **2D Drawing + 3D Preview**
-  As you draw in 2D, a real-time 3D view helps you understand how your effect will look in-game.
+### 🧱 **Layer System**
 
-* **Proximity Mode**
-  Sorts particles by distance to center, creating wave-like, expanding, or natural flowing animations.
+Organize your design with multiple independent layers.
 
-* **Rotate Mode**
-  Your drawn shape rotates over time — great for spiraling spells, spinning circles, and rotating effects.
+### 🎚️ **Per-Layer Settings**
 
-* **Persistent Effects**
-  Use `areaeffectcloud` to create long-lasting or area-based effects that stay in the scene.
+Customize particle type, tick delay, color, offset, and more for **each layer individually**.
 
-* **Resizable Drawing Area**
-  The canvas resizes dynamically, giving you full control and space to work in as much detail as you want.
+### 📁 **PNG & OBJ Import**
 
-* **Performance Mode**
-  Generates optimized MythicMob code by reducing redundant lines for better in-game performance.
+Draw effects using images or 3D models.
 
-* **Layer Management**
-  Move layers up or down, rename them, or reorder execution to match your desired effect sequence.
+![Drawing + Mode Selection](https://github.com/user-attachments/assets/89eca5ec-a706-4d6a-a785-45cb840a66f5)
 
-* **Save Project (.fxgen)**
-  Store all your drawings, layers, and settings in a single `.fxgen` file you can reopen later.
+---
 
-* **YAML Code Export**
-  Instantly convert your effect into MythicMob-compatible YAML format with a single click.
+### ✏️ **2D Drawing + Live 3D Preview**
 
-* **Multiple Generation Modes**
-  Choose between sequential, proximity-based, rotating, or custom modes for flexible animation logic.
+Design in 2D while seeing your effect **live in 3D**!
 
-* **User-Friendly Interface**
-  Designed for both beginners and experienced users, with an intuitive layout and easy controls.
+![3D Preview](https://github.com/user-attachments/assets/6b7e552f-5d01-42ac-9551-a545c1c03000)
+
+---
+
+### 🔁 **Animation Modes**
+
+* **Proximity Mode** – Creates wave-like or expanding motion.
+* **Rotate Mode** – Spins your effect over time.
+* **Sequential Mode** – Plays from start to end in order.
+* **Performance Mode** – Optimizes output for in-game performance.
+
+![Effect Editor UI](https://github.com/user-attachments/assets/c47d7f90-b3b5-47b6-9f99-04d6d5c1e310)
+
+---
+
+### 🧠 **Smart Tools**
+
+* **Resizable Canvas** – Adjust the working area to your liking.
+* **Effect Persistence** – Use `areaeffectcloud` for long-lasting visuals.
+* **Layer Management** – Reorder, rename, and manage execution order.
+* **Save as .fxgen** – Store and reopen your projects anytime.
+* **Export to YAML** – One-click export to MythicMobs-compatible YAML.
+* **Beginner-Friendly UI** – No prior experience required.
+
+---
+
+## 🔧 Version 1.0.2 – What’s New?
+
+✅ New update system with **automatic version check & installer**
+✅ **Update Checker Button** in main menu
+✅ Installer now uses **English language**
+✅ Setup icon and uninstall icon are now visible in **Control Panel**
+✅ Minor bug fixes and UI polish
 
 ---
 
 ## 📜 License
 
-© 2025 yaslicadi. This software is proprietary and all rights are reserved.
-Only the executable (.exe) file is distributed. Source code is private.
+© 2025 yaslicadi
+This software is proprietary. Source code is private.
 
-Copying, modifying, redistributing, or reverse engineering is strictly forbidden.
+📌 **Do not copy, modify, redistribute, or reverse-engineer.**
 
-Author: `discord/yaslicadi`
+Author: [`discord/yaslicadi`](#)
 
-![image](https://github.com/user-attachments/assets/f348d73f-6f53-4e5f-bc1f-241d01ee2276)
 
-![image](https://github.com/user-attachments/assets/a80cac11-ec3f-4864-b140-4938f62ac57e)
-
-![image](https://github.com/user-attachments/assets/12787811-750c-4621-b4c3-9011487756e2)
-
-![image](https://github.com/user-attachments/assets/e75ed5cf-4877-4b60-9a0c-4beca3d5af61)
-
-![image](https://github.com/user-attachments/assets/bd43041b-bd32-4bd2-9410-5a0289484de3)
 
 
