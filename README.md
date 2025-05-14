@@ -63,11 +63,11 @@ Design in 2D while seeing your effect **live in 3D**!
 
 ## 🔧 Version 1.0.2 – What’s New?
 
-✅ New update system with **automatic version check & installer**
-✅ **Update Checker Button** in main menu
-✅ Installer now uses **English language**
-✅ Setup icon and uninstall icon are now visible in **Control Panel**
-✅ Minor bug fixes and UI polish
+* ✅ New update system with **automatic version check & installer**
+* ✅ **Update Checker Button** in main menu
+* ✅ Installer now uses **English language**
+* ✅ Setup icon and uninstall icon are now visible in **Control Panel**
+* ✅ Minor bug fixes and UI polish
 
 ---
 
