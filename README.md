@@ -71,11 +71,11 @@ Choose how your particles behave over time:
 
 ## 🚀 What's New in 1.0.2
 
-*✅ New installer system with version checking
-*✅ Installer language set to **English**
-*✅ Setup and uninstall icons now appear in **Windows Control Panel**
-*✅ **Update button** added to app
-*✅ Various UI improvements and bug fixes
+* ✅ New installer system with version checking
+* ✅ Installer language set to **English**
+* ✅ Setup and uninstall icons now appear in **Windows Control Panel**
+* ✅ **Update button** added to app
+* ✅ Various UI improvements and bug fixes
 
 ---
 
