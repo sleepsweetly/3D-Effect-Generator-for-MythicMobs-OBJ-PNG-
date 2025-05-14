@@ -2,7 +2,7 @@
 
 
 
-## 🎉 AuraForge v1.0.X
+## 🎉 AuraFX v1.0.2
 
 **AuraForge** is a powerful visual tool designed for creating custom MythicMob particle effects — without any coding!
 
