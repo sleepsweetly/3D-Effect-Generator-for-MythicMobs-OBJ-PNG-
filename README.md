@@ -27,7 +27,7 @@ Customize particle type, tick delay, color, offset, and more for **each layer in
 
 Draw effects using images or 3D models.
 
-![Drawing + Mode Selection](https://github.com/user-attachments/assets/89eca5ec-a706-4d6a-a785-45cb840a66f5)
+![Effect Editor UI](https://github.com/user-attachments/assets/c47d7f90-b3b5-47b6-9f99-04d6d5c1e310)
 
 ---
 
@@ -46,7 +46,7 @@ Design in 2D while seeing your effect **live in 3D**!
 * **Sequential Mode** – Plays from start to end in order.
 * **Performance Mode** – Optimizes output for in-game performance.
 
-![Effect Editor UI](https://github.com/user-attachments/assets/c47d7f90-b3b5-47b6-9f99-04d6d5c1e310)
+![Drawing + Mode Selection](https://github.com/user-attachments/assets/89eca5ec-a706-4d6a-a785-45cb840a66f5)
 
 ---
 
