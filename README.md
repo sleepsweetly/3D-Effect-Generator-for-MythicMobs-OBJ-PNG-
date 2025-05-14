@@ -1,39 +1,37 @@
 
 ## 🎉 AuraFX v1.0.2
 
-**AuraFX** is a powerful visual tool designed for creating stunning **MythicMob particle effects** — no coding required!
+**AuraFX** is a visual tool for generating custom MythicMob particle effects — no coding required!
 
 ---
 
-## 🧩 Key Features
-
-### 🔹 **Main Menu – Simple & Elegant**
-
-Easily access all tools with a clean and intuitive main menu.
+## 🖼️ Main Menu
 
 ![Main Menu](https://github.com/user-attachments/assets/eb9311a7-db5d-4392-bd37-433cf2cdccee)
 
 ---
 
-### 🧱 **Layer System**
+## 🧩 Features
 
-Organize your design with multiple independent layers.
+### 📚 **Layer System**
 
-### 🎚️ **Per-Layer Settings**
+Organize your effects into **independent layers**. Each one can be customized separately for detailed control.
 
-Customize particle type, tick delay, color, offset, and more for **each layer individually**.
+### ⚙️ **Per-Layer Settings**
 
-### 📁 **PNG & OBJ Import**
+Adjust particle type, tick delay, color, offset, and more — per layer.
 
-Draw effects using images or 3D models.
+### 🖼️ **PNG & OBJ Import**
+
+Import PNG images or 3D OBJ models, scale them, and use them as drawing templates.
 
 ![Effect Editor UI](https://github.com/user-attachments/assets/c47d7f90-b3b5-47b6-9f99-04d6d5c1e310)
 
 ---
 
-### ✏️ **2D Drawing + Live 3D Preview**
+### ✏️ **2D Drawing + 3D Live Preview**
 
-Design in 2D while seeing your effect **live in 3D**!
+Draw in 2D and watch a **real-time 3D preview** of your effect.
 
 ![3D Preview](https://github.com/user-attachments/assets/6b7e552f-5d01-42ac-9551-a545c1c03000)
 
@@ -41,45 +39,51 @@ Design in 2D while seeing your effect **live in 3D**!
 
 ### 🔁 **Animation Modes**
 
-* **Proximity Mode** – Creates wave-like or expanding motion.
-* **Rotate Mode** – Spins your effect over time.
-* **Sequential Mode** – Plays from start to end in order.
-* **Performance Mode** – Optimizes output for in-game performance.
+Choose how your particles behave over time:
 
-![Drawing + Mode Selection](https://github.com/user-attachments/assets/89eca5ec-a706-4d6a-a785-45cb840a66f5)
+* **Proximity Mode** – Based on distance to center (waves, ripple effects)
+* **Rotate Mode** – Rotating shapes for spirals or orbit effects
+* **Rise Mode** – Smooth vertical movement with speed & height control
 
----
-
-### 🧠 **Smart Tools**
-
-* **Resizable Canvas** – Adjust the working area to your liking.
-* **Effect Persistence** – Use `areaeffectcloud` for long-lasting visuals.
-* **Layer Management** – Reorder, rename, and manage execution order.
-* **Save as .fxgen** – Store and reopen your projects anytime.
-* **Export to YAML** – One-click export to MythicMobs-compatible YAML.
-* **Beginner-Friendly UI** – No prior experience required.
+![Modes Panel](https://github.com/user-attachments/assets/89eca5ec-a706-4d6a-a785-45cb840a66f5)
 
 ---
 
-## 🔧 Version 1.0.2 – What’s New?
+### 🛠️ **Advanced Tools**
 
-* ✅ New update system with **automatic version check & installer**
-* ✅ **Update Checker Button** in main menu
-* ✅ Installer now uses **English language**
-* ✅ Setup icon and uninstall icon are now visible in **Control Panel**
-* ✅ Minor bug fixes and UI polish
+* **Resizable Drawing Area** – Flexible canvas size, scale as needed
+* **Persistent Effects** – Use `areaeffectcloud` for long-lasting effects
+* **Performance Mode** – Reduce redundancy for lighter MythicMobs code
+* **Layer Management** – Move, rename, and reorder layers
+
+---
+
+### 💾 **Project Management**
+
+* **Save as `.fxgen`** – Preserve your full project with all layers and settings
+* **YAML Export** – One-click export to MythicMobs-compatible format
+* **Timeline Playback** – Preview your effect across multiple ticks
+* **Generation Modes** – Sequential, proximity, rotation, or custom logic
+* **Exportable EXE** – Share your creation as a standalone .exe
+* **Beginner-Friendly UI** – Designed for creators of all levels
+
+---
+
+## 🚀 What's New in 1.0.2
+
+✅ New installer system with version checking
+✅ Installer language set to **English**
+✅ Setup and uninstall icons now appear in **Windows Control Panel**
+✅ **Update button** added to app
+✅ Various UI improvements and bug fixes
 
 ---
 
 ## 📜 License
 
-© 2025 yaslicadi
-This software is proprietary. Source code is private.
+© 2025 yaslicadi. This software is proprietary.
+Only the executable (.exe) is distributed. Source code is private.
 
-📌 **Do not copy, modify, redistribute, or reverse-engineer.**
-
-Author: [`discord/yaslicadi`](#)
-
-
-
+**Copying, modifying, redistributing, or reverse engineering is strictly forbidden.**
+Author: `discord/yaslicadi`
 
