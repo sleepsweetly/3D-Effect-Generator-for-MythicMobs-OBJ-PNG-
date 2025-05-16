@@ -1,5 +1,5 @@
 
-## 🎉 AuraFX v1.0.3
+## 🎉 AuraFX 
 
 **AuraFX** is a visual tool for generating custom MythicMob particle effects — no coding required!
 
