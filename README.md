@@ -74,6 +74,8 @@ Choose how your particles behave over time:
 * **Beginner-Friendly UI** – Designed for creators of all levels
 
 ---
+
+## Preview
 https://www.youtube.com/watch?v=wv32zLgrajU
 
 ---
