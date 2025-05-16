@@ -7,7 +7,8 @@
 
 ## 🖼️ Main Menu
 
-![Main Menu](https://github.com/user-attachments/assets/eb9311a7-db5d-4392-bd37-433cf2cdccee)
+![image](https://github.com/user-attachments/assets/b9344ae4-5f33-4b60-8dd2-f67a963d25d5)
+
 
 ---
 
@@ -25,7 +26,10 @@ Adjust particle type, tick delay, color, offset, and more — per layer.
 
 Import PNG images or 3D OBJ models, scale them, and use them as drawing templates.
 
-![Effect Editor UI](https://github.com/user-attachments/assets/c47d7f90-b3b5-47b6-9f99-04d6d5c1e310)
+![image](https://github.com/user-attachments/assets/528519eb-2d20-4749-95d7-e6217cfeef8f)
+![image](https://github.com/user-attachments/assets/d4fd0e3d-bbba-473f-a33c-fbdd227bd2be)
+
+
 
 ---
 
@@ -33,7 +37,8 @@ Import PNG images or 3D OBJ models, scale them, and use them as drawing template
 
 Draw in 2D and watch a **real-time 3D preview** of your effect.
 
-![3D Preview](https://github.com/user-attachments/assets/6b7e552f-5d01-42ac-9551-a545c1c03000)
+![image](https://github.com/user-attachments/assets/b9b10072-619d-4ae1-967a-8f3cc46c136a)
+
 
 ---
 
@@ -45,7 +50,8 @@ Choose how your particles behave over time:
 * **Rotate Mode** – Rotating shapes for spirals or orbit effects
 * **Rise Mode** – Smooth vertical movement with speed & height control
 
-![Modes Panel](https://github.com/user-attachments/assets/89eca5ec-a706-4d6a-a785-45cb840a66f5)
+![image](https://github.com/user-attachments/assets/984b86b6-5494-492a-a9ef-d700516a9a9b)
+
 
 ---
 
@@ -69,13 +75,6 @@ Choose how your particles behave over time:
 
 ---
 
-## 🚀 What's New in 1.0.2
-
-* ✅ New installer system with version checking
-* ✅ Installer language set to **English**
-* ✅ Setup and uninstall icons now appear in **Windows Control Panel**
-* ✅ **Update button** added to app
-* ✅ Various UI improvements and bug fixes
 
 ---
 
