@@ -82,6 +82,9 @@ Choose how your particles behave over time:
 
 © 2025 yaslicadi. This software is proprietary.
 Only the executable (.exe) is distributed. Source code is private.
+source:
+![image](https://github.com/user-attachments/assets/c93c9cce-27be-458b-9aa6-a99a34646efe)
+
 
 **Copying, modifying, redistributing, or reverse engineering is strictly forbidden.**
 Author: `discord/yaslicadi`
