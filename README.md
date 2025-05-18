@@ -86,6 +86,7 @@ https://www.youtube.com/watch?v=wv32zLgrajU
 * **source:**
 ![image](https://github.com/user-attachments/assets/79c7b5c2-cfa8-4629-ac34-34f5e879319c)
 
+herseydenonceonururnamınakoyayım
 
 
 
