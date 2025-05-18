@@ -1,5 +1,5 @@
 {
   "latest_version": "1.0.7",
   "download_url": "https://github.com/sleepsweetly/3D-Effect-Generator-for-MythicMobs-OBJ-PNG-/releases/download/v1.0.7/AuraFXSetup.exe",
-  "changelog": "• Added Colored Image Mode to enable pixel-perfect color rendering from loaded images"
+  "changelog": "• Added Colored Image Mode to enable pixel-perfect color rendering from loaded images. Note: Colors may appear black or distorted on the canvas preview, but they display correctly in-game."
 }
