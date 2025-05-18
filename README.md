@@ -82,14 +82,11 @@ https://www.youtube.com/watch?v=wv32zLgrajU
 
 ## 📜 License
 
-© 2025 yaslicadi. This software is proprietary.
-Only the executable (.exe) is distributed. Source code is private.
+⚠️ This repository does not include the source code. AuraFX is proprietary software. See LICENSE for more details.
 * **source:**
 ![image](https://github.com/user-attachments/assets/70771ca7-83e2-403c-a6af-f495e416649a)
 
 
 
-
-**Copying, modifying, redistributing, or reverse engineering is strictly forbidden.**
 Author: `discord/yaslicadi`
 
