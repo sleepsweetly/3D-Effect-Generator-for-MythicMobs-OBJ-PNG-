@@ -84,7 +84,8 @@ https://www.youtube.com/watch?v=wv32zLgrajU
 
 ⚠️ This repository does not include the source code. AuraFX is proprietary software. See LICENSE for more details.
 * **source:**
-![image](https://github.com/user-attachments/assets/70771ca7-83e2-403c-a6af-f495e416649a)
+![image](https://github.com/user-attachments/assets/79c7b5c2-cfa8-4629-ac34-34f5e879319c)
+
 
 
 
