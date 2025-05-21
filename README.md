@@ -1,94 +1,91 @@
 
-## 🎉 AuraFX 
+## 🎉 AuraFX – Custom MythicMobs Effect Generator
 
-**AuraFX** is a visual tool for generating custom MythicMob particle effects — no coding required!
+**AuraFX** is a powerful and beginner-friendly visual tool for creating custom MythicMobs particle effects — no coding required.
 
 ---
 
-## 🖼️ Main Menu
+## 🖥️ Main Menu
 
-![image](https://github.com/user-attachments/assets/b9344ae4-5f33-4b60-8dd2-f67a963d25d5)
+![image](https://github.com/user-attachments/assets/843cca78-d074-4356-903e-21b9f333d630)
 
 
 ---
 
 ## 🧩 Features
 
-### 📚 **Layer System**
+### 📚 Layer System
 
-Organize your effects into **independent layers**. Each one can be customized separately for detailed control.
+Organize your effects into **independent layers**. Each layer has its own configuration, making it easy to manage complex visuals.
 
-### ⚙️ **Per-Layer Settings**
+### ⚙️ Per-Layer Settings
 
-Adjust particle type, tick delay, color, offset, and more — per layer.
+Customize **particle type, tick delay, color, offset, motion**, and more — for each layer individually.
 
-### 🖼️ **PNG & OBJ Import**
+### 🖼️ PNG & OBJ Import
 
-Import PNG images or 3D OBJ models, scale them, and use them as drawing templates.
+Import **PNG images** or **3D OBJ models** and use them as visual guides for your designs. Resize, position, and draw directly over them.
 
-![image](https://github.com/user-attachments/assets/528519eb-2d20-4749-95d7-e6217cfeef8f)
-![image](https://github.com/user-attachments/assets/d4fd0e3d-bbba-473f-a33c-fbdd227bd2be)
-
+![image](https://github.com/user-attachments/assets/bf2ff28d-3446-4f5c-adf2-3c2b5ccc6ff4)
 
 
 ---
 
-### ✏️ **2D Drawing + 3D Live Preview**
+### ✏️ 2D Drawing + Live 3D Preview
 
-Draw in 2D and watch a **real-time 3D preview** of your effect.
+Draw shapes in a 2D space and instantly preview the result in a live **3D environment**.
 
-![image](https://github.com/user-attachments/assets/b9b10072-619d-4ae1-967a-8f3cc46c136a)
-
-
----
-
-### 🔁 **Animation Modes**
-
-Choose how your particles behave over time:
-
-* **Proximity Mode** – Based on distance to center (waves, ripple effects)
-* **Rotate Mode** – Rotating shapes for spirals or orbit effects
-* **Rise Mode** – Smooth vertical movement with speed & height control
-
-![image](https://github.com/user-attachments/assets/984b86b6-5494-492a-a9ef-d700516a9a9b)
+![image](https://github.com/user-attachments/assets/52201721-6c9d-41ed-a0f6-3e70c4c9d396)
 
 
 ---
 
-### 🛠️ **Advanced Tools**
+### 🔁 Animation Modes
 
-* **Resizable Drawing Area** – Flexible canvas size, scale as needed
-* **Persistent Effects** – Use `areaeffectcloud` for long-lasting effects
-* **Performance Mode** – Reduce redundancy for lighter MythicMobs code
-* **Layer Management** – Move, rename, and reorder layers
+Bring your effects to life with multiple behavior presets:
 
----
+* **Proximity Mode** – Create ripple or wave-like effects based on distance to center
+* **Rotate Mode** – Generate spirals and orbits with smooth rotation
+* **Rise Mode** – Add vertical movement with height and speed controls
 
-### 💾 **Project Management**
 
-* **Save as `.fxgen`** – Preserve your full project with all layers and settings
-* **YAML Export** – One-click export to MythicMobs-compatible format
-* **Timeline Playback** – Preview your effect across multiple ticks
-* **Generation Modes** – Sequential, proximity, rotation, or custom logic
-* **Exportable EXE** – Share your creation as a standalone .exe
-* **Beginner-Friendly UI** – Designed for creators of all levels
+![image](https://github.com/user-attachments/assets/dc84f7a5-a398-4646-aa49-5c56b49b611d)
 
 ---
 
-## Preview
-https://www.youtube.com/watch?v=wv32zLgrajU
+### 🛠️ Advanced Tools
+
+* 🎨 **Resizable Canvas** – Work on any size with scalable drawing area
+* 🌫️ **Persistent Effects** – Enable `areaeffectcloud`-based long-lasting visuals
+* 🚀 **Performance Mode** – Optimize output for lighter and faster MythicMobs scripts
+* 🔀 **Layer Manager** – Easily rename, reorder, or delete layers
+
+---
+
+### 💾 Project & Export Options
+
+* 💾 **Save Projects as `.fxgen`**
+* 📤 **One-click YAML Export** – Fully compatible with MythicMobs
+* 🕓 **Timeline Playback** – Preview your effects over time
+* ⚙️ **Custom Generation Modes** – Sequential, rotational, proximity-based, or custom logic
+* 📦 **Export as EXE** – Share your creation with others as a standalone app
+* 🧑‍🎨 **Beginner-Friendly Interface** – Designed to be intuitive and creator-friendly
+
+---
+
+## ▶️ Preview
+
+https://youtu.be/5ZSbGRUl3Io
 
 ---
 
 ## 📜 License
 
-⚠️ This repository does not include the source code. AuraFX is proprietary software. See LICENSE for more details.
-* **source:**
-![image](https://github.com/user-attachments/assets/79c7b5c2-cfa8-4629-ac34-34f5e879319c)
+**AuraFX** is proprietary software. Source code is not included in this repository. See the LICENSE file for usage terms.
 
-herseydenonceonurunamınakoyayım
+---
 
+**Author:** [`discord/yaslicadi`](https://discord.com/users/yaslicadi)
 
-
-Author: `discord/yaslicadi`
-
+source
+![image](https://github.com/user-attachments/assets/b250cf86-b651-4b93-811e-41ea424a3668)
