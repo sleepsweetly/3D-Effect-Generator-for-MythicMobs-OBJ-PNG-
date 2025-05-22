@@ -88,5 +88,5 @@ https://youtu.be/5ZSbGRUl3Io
 **Author:** [`discord/yaslicadi`](https://discord.com/users/yaslicadi)
 
 source
-![image](https://github.com/user-attachments/assets/0b9600a0-9aaf-4c5d-8699-410017ba20e6)
+![image](https://github.com/user-attachments/assets/a5f30f08-23ed-4f48-9f04-93855bd2eb8b)
 
