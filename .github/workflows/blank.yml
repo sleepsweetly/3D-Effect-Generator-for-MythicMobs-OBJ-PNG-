@@ -1,37 +1,33 @@
-name: Build macOS executable
+name: Build macOS Executable
 
 on:
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
+  workflow_dispatch:
 
 jobs:
   build-macos:
     runs-on: macos-latest
 
     steps:
-    - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.10'  # İstediğin Python sürümü
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
 
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install pyinstaller
-        # Eğer requirements.txt varsa:
-        # pip install -r requirements.txt
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pyinstaller
 
-    - name: Build executable with PyInstaller
-      run: |
-        pyinstaller --onefile newguieng.py
-        # 'your_script.py' dosya adını kendi ana scriptinle değiştir
+      - name: Build with PyInstaller
+        run: |
+          pyinstaller --onefile main.py
+          # Burada ana script dosyanı yaz (örnek: gui.py)
 
-    - name: Upload artifact
-      uses: actions/upload-artifact@v3
-      with:
-        name: macos-executable
-        path: dist/
+      - name: Upload compiled binary
+        uses: actions/upload-artifact@v4
+        with:
+          name: macos-build
+          path: dist/
