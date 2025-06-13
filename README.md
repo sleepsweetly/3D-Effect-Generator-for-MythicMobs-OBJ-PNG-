@@ -6,6 +6,9 @@ This project is considered feature-complete and is no longer under active develo
 Feel free to use it as-is or fork it for your own purposes. Community contributions are still welcome via pull requests or discussions.
 
 
+### 🌐 WEB: https://beta-1lb.pages.dev/
+
+
 ## 🎉 AuraFX – Custom MythicMobs Effect Generator
 
 **AuraFX** is a powerful and beginner-friendly visual tool for creating custom MythicMobs particle effects — no coding required.
