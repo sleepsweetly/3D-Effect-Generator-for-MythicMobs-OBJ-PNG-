@@ -99,6 +99,7 @@ https://youtu.be/5ZSbGRUl3Io
 
 **Author:** [`discord/yaslicadi`](https://discord.com/users/yaslicadi)
 
-source
-![image](https://github.com/user-attachments/assets/a5f30f08-23ed-4f48-9f04-93855bd2eb8b)
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=sleepsweetly/3D-Effect-Generator-for-MythicMobs-OBJ-PNG-&type=Date)](https://www.star-history.com/#sleepsweetly/3D-Effect-Generator-for-MythicMobs-OBJ-PNG-&Date)
 
