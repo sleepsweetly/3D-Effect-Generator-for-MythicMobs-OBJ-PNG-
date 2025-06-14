@@ -7,7 +7,7 @@ Feel free to use it as-is or fork it for your own purposes. Community contributi
 
 ---
 
-### 🌐 WEB: https://beta-1lb.pages.dev/
+### 🌐 WEB: aurafx.vercel.app 
 
 ---
 
